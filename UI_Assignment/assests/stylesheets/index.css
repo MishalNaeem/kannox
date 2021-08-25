@@ -137,7 +137,7 @@ span.txt1 {
   top: 34px !important;
   max-width: 70%;
 }
-section.section1,section.section3 {
+section.section1, section.section3 {
   margin-top: 97px;
 }
 .section1_context {
@@ -188,7 +188,7 @@ section.section1,section.section3 {
   margin-bottom: 37px;
   font-size: 20px;
 }
-.story3{
+.story3 {
   color:rgb(107, 105, 105);
   font-size: 16px;
   margin-bottom: 37px;
@@ -202,7 +202,6 @@ section.section1,section.section3 {
   left: 198px;
   margin-top: 115px;
 }
-
 .subcontainer h2, .subcontainer h1 {
   text-align: center;
   margin: 30px;
@@ -276,7 +275,7 @@ section.section1,section.section3 {
 .icon2 {
   color: yellow !important;
 }
-.s4_content{
+.s4_content {
   color: white;
 }
 h1.s4_content {
@@ -491,10 +490,10 @@ h2.footer_headings {
     box-shadow: 2px 0px rgb(62 72 97);
     background-color: rgb(62, 72, 97);
   }
-.subcontainer h2, .subcontainer h1 {
-  text-align: center;
-  margin: 15px !important;
-}
+  .subcontainer h2, .subcontainer h1 {
+    text-align: center;
+    margin: 15px !important;
+  }
   .icons {
     background-color: rgb(76, 94, 143);
     width: 27% !important;
@@ -674,7 +673,7 @@ h2.footer_headings {
     width: 142px;
     height: 70px;
   }
-  section.section1,section.section3 {
+  section.section1, section.section3 {
       margin-top: 20px;
   }
   .section1 .subcontainer {
@@ -804,7 +803,7 @@ h2.footer_headings {
     min-width:90%;
   }
 }
-@media screen and (max-width: 550px){
+@media screen and (max-width: 550px) {
   .txt {
     top: 350px !important;
     left: 100px !important;
