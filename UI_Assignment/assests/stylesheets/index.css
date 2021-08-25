@@ -233,7 +233,7 @@ section.section1,section.section3 {
 .column3 {
   float: left;
   width: 50%;
-  padding-left: 112px; /* Should be removed. Only for demonstration */
+  padding-left: 112px;
 }
 .demo1{
   max-width: 100%;
@@ -241,7 +241,6 @@ section.section1,section.section3 {
 .demo2{
   max-width: 100%;
 }
-/* Clear floats after the columns */
 .row3:after {
   content: "";
   display: table;
