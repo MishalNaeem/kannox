@@ -68,7 +68,7 @@ nav {
 .dropdown-content a:hover {
   background-color: #ddd;
 }
-.dropdown:hover .dropdown-content{
+.dropdown:hover .dropdown-content {
   display: block;
 }
 .hamburger {
@@ -123,13 +123,13 @@ span.txt1 {
   left: 200px;
   top: 200px;
 }
-.column1 img{
+.column1 img {
   position: absolute;
   left: 0;
   top: 358px;
   height: 502px;
 }
-.column2 img{
+.column2 img {
   position: relative;
   display:block;
   margin-left: auto;
@@ -236,7 +236,6 @@ section.section1,section.section3 {
 .demo2 {
   max-width: 100%;
 }
-/* Clear floats after the columns */
 .row3:after {
   content: "";
   display: table;
@@ -463,7 +462,7 @@ h2.footer_headings {
   outline: none;
   color: grey;
 }
-.searchTerm:focus{
+.searchTerm:focus {
   color: #00B4CC;
 }
 .searchButton {
@@ -592,12 +591,12 @@ h2.footer_headings {
   }
 }
 @media only screen and (max-width: 900px) {
-  .hamburger{
+  .hamburger {
     display: block;
     background-color: palevioletred;
     cursor: pointer;
   }
-  nav{
+  nav {
     background-color: antiquewhite !important;
     }
   .hamburger.active .bar:nth-child(2) {
